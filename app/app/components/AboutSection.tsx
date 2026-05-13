@@ -56,7 +56,10 @@ export default function AboutSection() {
                 <li className="flex gap-6">
                   <span className="text-4xl font-black text-graphite">01</span>
                   <div>
-                    <Link href="/projects" className="bg-white text-black font-black uppercase tracking-widest py-3 px-4 hover:bg-golden-pollen hover:text-black transition-colors duration-200">
+                    <Link href="https://www.linkedin.com/in/alexanderboydjm" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="bg-white text-black font-black uppercase tracking-widest py-3 px-4 hover:bg-golden-pollen hover:text-black transition-colors duration-200">
                         LinkedIn
                     </Link>
                   </div>
@@ -64,7 +67,11 @@ export default function AboutSection() {
                 <li className="flex gap-6">
                   <span className="text-4xl font-black text-graphite">02</span>
                   <div>
-                    <Link href="/projects" className="bg-white text-black font-black uppercase tracking-widest py-3 px-4 hover:bg-jade-green hover:text-black transition-colors duration-200">
+                    <Link 
+                    href="https://github.com/AlexandersWrld"
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="bg-white text-black font-black uppercase tracking-widest py-3 px-4 hover:bg-jade-green hover:text-black transition-colors duration-200">
                         GitHub
                     </Link>
                   </div>
