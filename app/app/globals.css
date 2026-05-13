@@ -10,6 +10,13 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  
+  --color-golden-pollen: #FFD25A;
+  --color-scarlet: #c9243a;
+  --color-bright-coral: #FF785A;
+  --color-jade-green:#00a645;
+  --color-graphite: #2E2E2E;
+  --color-carbon-black: #191919;
 }
 
 @media (prefers-color-scheme: dark) {
