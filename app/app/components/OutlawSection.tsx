@@ -29,7 +29,7 @@ export default function OutlawSection() {
         <div className="relative w-full aspect-square md:aspect-auto md:h-[500px]">
           {/* Offset block for raw, unpolished look */}
           {/* Main image container */}
-          <div className="relative h-full w-full bg-zinc-900 p-8 flex flex-col justify-center items-center">
+          <div className="relative h-full w-full p-8 flex flex-col justify-center items-center">
             {/* Replace this div with a Next.js <Image /> component */}
                <Image
                     src={me}
