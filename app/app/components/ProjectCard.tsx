@@ -1,6 +1,13 @@
 import Link from "next/link";
 
-export default function ProjectCard({ title, description, url, techStack }) {
+interface ProjectCardProps {
+  title: string;
+  description: string;
+  url: string;
+  techStack: string[];
+}
+
+export default function ProjectCard({ title, description, url, techStack }: ProjectCardProps) {
   return (
     <div className="flex flex-col border-4 border-zinc-800 bg-black group hover:border-red-600 transition-colors duration-300">
       
