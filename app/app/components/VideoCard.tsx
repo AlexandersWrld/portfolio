@@ -52,7 +52,7 @@ export default function VideoCard({ title, description, videoId, tags }: VideoCa
             href={externalUrl} 
             target="_blank" 
             rel="noreferrer"
-            className="text-red-600 font-black uppercase text-sm hover:text-white"
+            className="text-golden-pollen font-black uppercase text-sm hover:text-white"
           >
             [ Watch Source ]
           </a>

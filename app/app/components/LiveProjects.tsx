@@ -25,6 +25,13 @@ export default function LiveProjects() {
     },
     {
       id: 4,
+      title: "Job Technology Project",
+      description: "A simple angular weather site.",
+      url: "https://weather-app-two-kappa-17.vercel.app/",
+      techStack: ["Angular.js", "Node.js", "TypeScript"]
+    },
+    {
+      id: 5,
       title: "TRG Sensei Website",
       description: "Website with lightweight CMS for streaming.",
       url: "https://trgsensei.com/",

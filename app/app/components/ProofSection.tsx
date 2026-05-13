@@ -16,7 +16,7 @@ export default function ProofSection() {
         {/* Brutalist Stats Grid */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
           <div className="border-l-8 border-scarlet bg-black p-6 hover:bg-zinc-900 transition-colors">
-            <p className="text-6xl font-black tracking-tighter mb-2">6+ Years</p>
+            <p className="text-6xl font-black tracking-tighter mb-2">4+ Years</p>
             <p className="text-zinc-400 uppercase tracking-widest font-bold text-sm">of professional experience</p>
           </div>
           <div className="border-l-8 border-scarlet bg-black p-6 hover:bg-zinc-900 transition-colors">
